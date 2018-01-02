@@ -6,7 +6,11 @@
   "scripts": {
     "units": "node test/units.js",
     "test": "npm run units"
-  },
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/eCollect/class-streams"
+	},
   "author": "eCollect",
   "license": "MIT",
   "devDependencies": {
