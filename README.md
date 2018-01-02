@@ -11,3 +11,6 @@ npm i -s class-streams
 ```javascript
 const { ObjectStream, FilterTransform } = require('class-streams');
 ```
+
+## Copyright
+Copyright (c) 2018 eCollect [LICENSE](https://github.com/eCollect/class-streams/blob/master/LICENSE)
