@@ -6,14 +6,17 @@
   "scripts": {
     "units": "node test/units.js",
     "test": "npm run units"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/eCollect/class-streams"
-	},
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eCollect/class-streams"
+  },
   "author": "eCollect",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.14.0"
+    "eslint": "^4.13.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "prettier-eslint": "^8.3.1"
   }
 }
