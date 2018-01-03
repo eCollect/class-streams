@@ -1,6 +1,6 @@
 {
   "name": "class-streams",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node native, dependency free, ( Object ) transfrom and filter stream class wrappers.",
   "main": "index.js",
   "scripts": {
